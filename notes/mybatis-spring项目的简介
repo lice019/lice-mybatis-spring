@@ -1,0 +1,6 @@
+mybatis-spring项目是由mybatis团队研发，主要使用适应于mybatis结合spring框架开发的适配项目。
+
+思考问题：mybatis如何适配spring？
+
+解决步骤：
+(1)、将mybatis和spring（aop、beans、context、core、expression、jcl、jdbc、test、tx、web等）的jar引入
